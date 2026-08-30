@@ -132,12 +132,10 @@ I test what I can also build — APIs, ML pipelines, and mobile apps — so I kn
 ### 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/a-boyhasnoname/a-boyhasnoname/output/github-contribution-grid-snake.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/a-boyhasnoname/a-boyhasnoname/output/github-snake-dark.svg" width="100%" />
 </div>
 
-<sub>⚙️ This needs a one-time GitHub Action set up in your profile repo (see notes below) — it animates your real contribution graph into a snake.</sub>
 
----
 
 ### 🌐 Let's Connect
 
