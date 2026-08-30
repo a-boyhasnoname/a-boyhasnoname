@@ -115,8 +115,8 @@ I test what I can also build — APIs, ML pipelines, and mobile apps — so I kn
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=a-boyhasnoname&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-boyhasnoname&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api?username=a-boyhasnoname&show_icons=true&theme=tokyonight&hide_border=true&count_private=true](https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=a-boyhasnoname&show_icons=true&theme=tokyonight&hide_border=true)" />
+  <img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=a-boyhasnoname&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=a-boyhasnoname&layout=compact&theme=tokyonight&hide_border=true)" />
 </div>
 
 <div align="center">
