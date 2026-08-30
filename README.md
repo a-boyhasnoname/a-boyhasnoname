@@ -26,7 +26,7 @@ currently_studying: B.Sc. Computer Science @ Kathmandu University
 currently_hunting: bugs, edge cases, and off-by-one errors
 currently_learning: JIRA
 philosophy: "If it can break, I will find out how — before your users do."
-fun_fact: I once found a bug where a price displayed as "Rs. .00" 💸
+fun_fact: I love movies and music.
 ```
 
 ---
