@@ -116,7 +116,6 @@ I test what I can also build — APIs, ML pipelines, and mobile apps — so I kn
 
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=a-boyhasnoname&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=a-boyhasnoname&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
@@ -125,7 +124,7 @@ I test what I can also build — APIs, ML pipelines, and mobile apps — so I kn
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=a-boyhasnoname&theme=tokyo-night&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph-nu.vercel.app/graph?username=a-boyhasnoname&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
