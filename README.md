@@ -20,9 +20,9 @@
 
 ```yaml
 name: Arnav Bhatta
-role: QA Engineer (in training) & CS Undergrad
+role: CS Undergrad
 based_in: Kathmandu, Nepal
-currently_studying: B.Sc. Computer Science @ Kathmandu University
+currently_studying: B.Sc. Computer Science
 currently_hunting: bugs, edge cases, and off-by-one errors
 currently_learning: JIRA
 philosophy: "If it can break, I will find out how — before your users do."
