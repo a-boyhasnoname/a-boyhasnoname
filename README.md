@@ -4,7 +4,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B8BBE&height=180&section=header&text=QA%20Engineer%20%7C%20Bug%20Hunter%20%7C%20Builder&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B8BBE&height=180&section=header&text=CS%20Student%20%7C%20Bug%20Hunter%20%7C%20Builder&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
