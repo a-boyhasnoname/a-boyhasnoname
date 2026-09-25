@@ -23,7 +23,7 @@ name: Arnav Bhatta
 role: CS Undergrad
 based_in: Kathmandu, Nepal
 currently_studying: B.Sc. Computer Science
-currently_exploring: web dev, ML, mobile apps, and systems
+currently_exploring: web dev, ML and systems
 currently_learning: JIRA, cloud tools
 philosophy: "Understand it deeply, then build it properly."
 fun_fact: I love movies and music.
