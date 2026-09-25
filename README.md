@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arnav+%F0%9F%91%8B;I+break+software+for+a+living+%F0%9F%90%9E;CS+Student+making+sure+it+works...;before+you+find+out+it+doesn't." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4B8BBE&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arnav+%F0%9F%91%8B;CS+Student+%7C+Builder+%7C+Curious+Mind;I+like+figuring+out+how+things+work...;and+then+building+something+with+it." alt="Typing SVG" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=4B8BBE&height=180&section=header&text=CS%20Student%20%7C%20Bug%20Hunter%20%7C%20Builder&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B8BBE&height=180&section=header&text=CS%20Student%20%7C%20Builder%20%7C%20Explorer&fontSize=32&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 </div>
 
 <p align="center">
-<i>"It's not a bug hunt, it's a lifestyle."</i> 🐛🔦
+<i>"Curious by default, deliberate by choice."</i> 💡
 </p>
 
 ---
 
-### 🕵️ A little about me
+### 👋 A little about me
 
 ```yaml
 name: Arnav Bhatta
 role: CS Undergrad
 based_in: Kathmandu, Nepal
 currently_studying: B.Sc. Computer Science
-currently_hunting: bugs, edge cases, and off-by-one errors
-currently_learning: JIRA
-philosophy: "If it can break, I will find out how — before your users do."
+currently_exploring: web dev, ML, mobile apps, and systems
+currently_learning: JIRA, cloud tools
+philosophy: "Understand it deeply, then build it properly."
 fun_fact: I love movies and music.
 ```
 
@@ -37,23 +37,23 @@ fun_fact: I love movies and music.
 <tr>
 <td width="33%" align="center" valign="top">
 
-**🔍 Manual & Exploratory Testing**
+**💻 Building Things**
 <br/>
-I poke, prod, and misuse software on purpose — black-box, white-box, boundary value, and regression testing.
+From web apps to mobile apps, I like turning ideas into working software across the stack.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-**🐞 Defect Detective**
+**🔍 Understanding Systems**
 <br/>
-Clean, reproducible bug reports with severity, priority, and receipts. No "it doesn't work" tickets here.
+I dig into how things actually work — APIs, databases, ML pipelines — before I trust or ship them.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-**⚙️ Full-stack Curiosity**
+**🧪 Quality-Minded**
 <br/>
-I test what I can also build — APIs, ML pipelines, and mobile apps — so I know exactly where bodies are buried.
+I care about things working right, so testing and attention to detail are baked into how I build.
 
 </td>
 </tr>
@@ -61,14 +61,14 @@ I test what I can also build — APIs, ML pipelines, and mobile apps — so I kn
 
 ---
 
-### 🧪 My Testing Toolkit
+### 🛠️ My Toolkit
 
 <div align="center">
 
-![Manual Testing](https://img.shields.io/badge/Manual%20Testing-4B8BBE?style=for-the-badge)
-![Black--box](https://img.shields.io/badge/Black--box%20Testing-4B8BBE?style=for-the-badge)
-![Regression](https://img.shields.io/badge/Regression%20Testing-4B8BBE?style=for-the-badge)
-![Exploratory](https://img.shields.io/badge/Exploratory%20Testing-4B8BBE?style=for-the-badge)
+![Manual Testing](https://img.shields.io/badge/Testing-4B8BBE?style=for-the-badge)
+![Version Control](https://img.shields.io/badge/Version%20Control-4B8BBE?style=for-the-badge)
+![APIs](https://img.shields.io/badge/API%20Design-4B8BBE?style=for-the-badge)
+![Debugging](https://img.shields.io/badge/Debugging-4B8BBE?style=for-the-badge)
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
@@ -95,9 +95,9 @@ I test what I can also build — APIs, ML pipelines, and mobile apps — so I kn
 
 ---
 
-### 🏆 Bug Hunt Highlights
+### 🏆 Project Highlight
 
-> A quick look at one hunt: **Foodmandu.com**, manually tested end-to-end.
+> A quick look at one project: **Foodmandu.com**, tested and analyzed end-to-end.
 
 <div align="center">
 
@@ -109,8 +109,6 @@ I test what I can also build — APIs, ML pipelines, and mobile apps — so I kn
 | 🐛 Defects Found | 2 (with full repro steps, severity & priority) |
 
 </div>
-
----
 
 ### 📈 GitHub Stats
 
